@@ -9,7 +9,7 @@
       <h1>Add</h1>
       <br>
       <form method="post">
-        <input type="number" placeholder="Num1" name="Num1" />
+        <input type="number" placeholder="Num1" name="Num1" /><p> + </p>
 	<input type="number" placeholder="Num1" name="Num2" />
         <input type="submit" value="equal" />
       </form>
