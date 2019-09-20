@@ -1,4 +1,4 @@
 language: python
 
 script:
- - mvn sonar:sonar -Dsonar.projectKey=c135792468_Calculator -Dsonar.organization=c135792468-github -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=$token
+ - mvn sonar:sonar -Dsonar.projectKey=c135792468 -Dsonar.organization=c135792468-github -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=$token
